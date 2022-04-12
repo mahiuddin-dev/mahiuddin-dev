@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Md Mahiuddin</h1>
-<h3 align="center">A passionate Python Fullstack Developer</h3>
+<h1>Hi 👋, I'm Md Mahiuddin</h1>
+<h3>A passionate Python Fullstack Developer</h3>
 <p>I have moderate back-end development skills with an interest in Dev-ops. I love to write clean code and follow best practices.</p>
-
+<br>
+<br>
 - 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on **any kind of web development project**
