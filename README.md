@@ -2,8 +2,6 @@
 #### Python Fullstack Developer
 I have moderate back-end development skills with an interest in Dev-ops. I love to write clean code and follow best practices.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahiuddin-dev" alt="mahiuddin-dev" /></a> </p>
-
 - 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on **any kind of web development project**
