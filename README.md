@@ -25,8 +25,5 @@ I have moderate back-end development skills with an interest in Dev-ops. I love 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahiuddin-dev)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahiuddin-dev&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mahiuddin-dev)  
 
 ![Profile views](https://gpvc.arturio.dev/mahiuddin-dev)  
