@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Md Mahiuddin</h1>
+<h1>Hi, I'm Md Mahiuddin</h1>
 <h3>A passionate Python Fullstack Developer</h3>
 <p>I have moderate back-end development skills with an interest in Dev-ops. I love to write clean code and follow best practices.</p>
 <br>
