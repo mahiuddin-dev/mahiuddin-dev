@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Md Mahiuddin
-#### Python Fullstack Developer
-I have moderate back-end development skills with an interest in Dev-ops. I love to write clean code and follow best practices.
+<h1 align="center">Hi 👋, I'm Md Mahiuddin</h1>
+<h3 align="center">A passionate Python Fullstack Developer</h3>
+<p>I have moderate back-end development skills with an interest in Dev-ops. I love to write clean code and follow best practices.</p>
 
 - 🌱 I’m currently learning **ReactJS**
 
@@ -24,5 +24,3 @@ I have moderate back-end development skills with an interest in Dev-ops. I love 
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/mahiuddinuA"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/mahiuddinuA" /></a></p><br><br>
-
-![Profile views](https://gpvc.arturio.dev/mahiuddin-dev)  
