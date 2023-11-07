@@ -1,5 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=mahiuddin-dev)
-
 # About Me
 
 Hello, I'm Md Mahiuddin, a software engineer with a passion for clean code and best practices. I have moderate backend development skills. I'm constantly seeking to learn and apply core software engineering architectures and principles for reliable system development.
