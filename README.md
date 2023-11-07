@@ -1,6 +1,6 @@
 # About Me
 
-Hello, I'm Md Mahiuddin, a software engineer with a passion for clean code and best practices. I have moderate backend development skills. I'm constantly seeking to learn and apply core software engineering architectures and principles for reliable system development.
+Hello, I'm Md Mahiuddin, a developer with a passion for clean code and best practices. I have moderate backend development skills. I'm constantly seeking to learn and apply core software engineering architectures and principles for reliable system development.
 
 ## Skills
 
@@ -9,7 +9,7 @@ Hello, I'm Md Mahiuddin, a software engineer with a passion for clean code and b
 - **Databases & Storage:** PostgreSQL, Cloudinary, S3, MySQL (knowledge)
 - **Version Control:** Git, GitHub
 - **Front End Development:** HTML, CSS, Bootstrap
-- **Other Tools & Technologies:** Docker, OAuth, JWT, Rest Framework, Unix Terminal (bash, zsh), AWS, Digital Ocean, Vultr, Heroku (cloud technologies)
+- **Other Tools & Technologies:** Docker, OAuth, JWT, Rest Framework, Linux Terminal, AWS, Digital Ocean, Vultr, Heroku (cloud technologies)
 
 
 ## Areas of Improvement
