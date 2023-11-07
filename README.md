@@ -1,16 +1,25 @@
-### Hi there 👋
+![Profile Views](https://komarev.com/ghpvc/?username=mahiuddin-dev)
 
-<!--
-**mahiuddin-dev/mahiuddin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+Hello, I'm Md Mahiuddin, a software engineer with a passion for clean code and best practices. I have moderate backend development skills. I'm constantly seeking to learn and apply core software engineering architectures and principles for reliable system development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Programming Languages:** Python (proficient), JavaScript, C, C++ (knowledge)
+- **Frameworks/CMS:** Django (proficient), Flask (knowledge)
+- **Databases & Storage:** PostgreSQL, Cloudinary, S3, MySQL (knowledge)
+- **Version Control:** Git, GitHub
+- **Front End Development:** HTML, CSS, Bootstrap
+- **Other Tools & Technologies:** Docker, OAuth, JWT, Rest Framework, Unix Terminal (bash, zsh), AWS, Digital Ocean, Vultr, Heroku (cloud technologies)
+
+
+## Areas of Improvement
+
+I'm actively working on improving my knowledge and skills in cloud technologies. I believe in continuous learning and growth, and I'm excited to explore more in this area.
+
+## Contact Me
+
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/mdmahiuddin/) or [Twitter](https://twitter.com/mahiuddin_dev). I'm open to collaboration, discussions, and opportunities in the software engineering field.
+
+Thank you for visiting my profile!
