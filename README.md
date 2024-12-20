@@ -4,17 +4,17 @@ Hello, I'm Md Mahiuddin, a developer with a passion for clean code and best prac
 
 ## Skills
 
-- **Programming Languages:** Python (proficient), JavaScript, C, C++ (knowledge)
-- **Frameworks/CMS:** Django (proficient), Flask (knowledge)
-- **Databases & Storage:** PostgreSQL, Cloudinary, S3, MySQL (knowledge)
-- **Version Control:** Git, GitHub
-- **Front End Development:** HTML, CSS, Bootstrap
-- **Other Tools & Technologies:** Docker, OAuth, JWT, Rest Framework, Linux Terminal, AWS, Digital Ocean, Vultr, Heroku (cloud technologies)
-
+- **Programming Languages:** Python (proficient), JavaScript, C, C++ (knowledge)  
+- **Frameworks/CMS:** Django (proficient), Flask (knowledge)  
+- **Databases & Storage:** PostgreSQL, Cloudinary, S3, MySQL (knowledge)  
+- **Version Control:** Git, GitHub  
+- **Front End Development:** HTML, CSS, Bootstrap  
+- **API Integration:** WhatsApp Meta API  
+- **Other Tools & Technologies:** Docker, OAuth, JWT, Rest Framework, Linux Terminal, AWS, Digital Ocean, Vultr, Heroku (cloud technologies)  
 
 ## Areas of Improvement
 
-I'm actively working on improving my knowledge and skills in cloud technologies. I believe in continuous learning and growth, and I'm excited to explore more in this area.
+I'm actively working on improving my knowledge and skills in cloud technologies and artificial intelligence (AI). I believe in continuous learning and growth, and I'm excited to explore more in these areas.
 
 ## Contact Me
 
